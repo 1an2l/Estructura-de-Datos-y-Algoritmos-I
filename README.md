@@ -19,3 +19,12 @@ Grupo:
 Objetivo del repositorio:
 
 Evidenciar los trabajos realizados en la materia de Estructura de Datos y Algoritmos I en el periodo 2021-2
+
+
+# ÍNDICE DEL REPOSITORIO DE EVIDENCIAS
+- Actividades Asíncronas Lunes
+- Actividades Asíncronas Miercoles
+- Actividades Asíncronas Viernes
+- Examen
+- Proyecto Final
+- Prácticas de Laboratorio
