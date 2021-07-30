@@ -18,4 +18,4 @@ Grupo:
 
 Objetivo del repositorio:
 
-Evidenciar los trabajos realizados en la materia de Estructura de Datos y Algoritmos I 
+Evidenciar los trabajos realizados en la materia de Estructura de Datos y Algoritmos I en el periodo 2021-2
