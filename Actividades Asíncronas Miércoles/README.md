@@ -3,5 +3,5 @@
 - Actividad #2 Algoritmos, Estructura de Datos y la Computación a Futuro
 - Actividad #3 Sudoku
 - Actividad #4 Cifrado César
-- Actividad #5 Apuntadores en C
+- Actividad #5 Pila
 - Actividad #6 Pila
