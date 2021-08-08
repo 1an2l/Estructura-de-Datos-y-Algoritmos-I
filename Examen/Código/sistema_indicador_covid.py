@@ -30,13 +30,13 @@ while (op != '4'):
     print(" 1) Ingresar Datos de la Persona\n 2) Consulta la base de datos\n 3) Color del Semaforo y Promedio de Edad de los Infectados\n 4) Salir")
     op=input("\nElige una Opción: ")
 
-    #Ingresar datos de una persona a la base de Datos en opcion 1
+    #Ingresar datos de una persona a la base de Datos en opción 1
     if op == '1':
         #Limpiar Pantalla
         os.system("cls")
         
         # Mensaje de Bienvenida para Ingresar datos
-        print("\t\t\tBienvenido a el Sistema Indicador del Color de el Semaforo COVID") 
+        print("\t\t\tBienvenido a el Sistema Indicador del Color de el Semáforo COVID") 
         print("\n\t\t\t\t\tEscogiste ingresar tus Datos\n\n")
 
         #Solicitando Datos a ingresar
@@ -66,14 +66,14 @@ while (op != '4'):
         os.system("cls")
 
         # Mensaje de Bienvenida para Consulta la base de datos
-        print("\t\t\tBienvenido a el Sistema Indicador del Color de el Semaforo COVID") 
+        print("\t\t\tBienvenido a el Sistema Indicador del Color de el Semáforo COVID") 
         print("\n\t\t\t\t\tEscogiste consultar la base de datos\n\n")
         print("La Base de Datos Contiene lo siguiente: \n")
         print("EDAD       INDICADOR COVID \n")
         
         print(contenido)
 
-        #Para poder salir de la consulta precionar ENTER
+        #Para poder salir de la consulta presionar ENTER
         input("Presiona ENTER continuar...")
     
     elif op == '3':
@@ -134,7 +134,15 @@ while (op != '4'):
         
         # si el rango ya no es posible
         else:
-            print("\nFuera rango\n")
+            print("\nFuera de rango\n")
         
         #Para poder salir de la consulta precionar ENTER
         input("Presiona ENTER continuar...")
+    
+    elif op =='4':
+        print("\n\t\t\tGracias por usar mi programa\n")
+        input("Presiona ENTER para salir...")
+    
+    else:
+        print("Opción no valida!!!\n Intente de nuevo")
+        input("Presiona ENTER para salir...")
