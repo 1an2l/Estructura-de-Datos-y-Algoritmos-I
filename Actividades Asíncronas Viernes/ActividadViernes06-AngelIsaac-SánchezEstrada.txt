@@ -1,1 +1,2 @@
 Creacion del Repositorio en github para evidencias de la materia Estructura de Datos y Algoritmos I
+Repositorio dividido en: Prácticas de Laboratorio, Actividades Asíncronas Lunes, Actividades Asíncronas Miércoles, Actividades Asíncronas Viernes, Examen, Proyecto Final.
