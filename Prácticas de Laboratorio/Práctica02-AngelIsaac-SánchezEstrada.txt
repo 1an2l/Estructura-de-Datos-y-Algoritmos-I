@@ -1,0 +1,1 @@
+Clase síncrona para retomar actividades.
