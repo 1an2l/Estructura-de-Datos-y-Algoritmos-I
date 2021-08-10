@@ -1,0 +1,1 @@
+Clase síncrona para revisar la notación polaca.
