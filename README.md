@@ -12,6 +12,8 @@
 - Actividades Asíncronas Lunes
 - Actividades Asíncronas Miercoles
 - Actividades Asíncronas Viernes
+- Códigos_Evidencia
 - Examen
 - Proyecto Final
 - Prácticas de Laboratorio
+- Tareas
