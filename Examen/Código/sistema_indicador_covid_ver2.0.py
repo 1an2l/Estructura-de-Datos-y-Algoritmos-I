@@ -6,7 +6,7 @@ País de Origen:            México
 Versión:                   2.0
 Sistema Operativo:         Windows 10
 Versión de Python:         3.9.6 (64-bit)
-Ultima Modificación:       08/08/2021 
+Ultima Modificación:       12/08/2021 
 '''
 #Declaración de Módulos
 import os # importa modulo os para ocupar método system
@@ -95,7 +95,7 @@ while (op != '4'):
         for i in range(0, len(datos)):
             edad_ind=datos[i].split(' ')    #Lista que alamacena la edad y el indicador 
             edad=int(edad_ind[0]);           #Se obtiene la edad de la persona
-            indicador=float(edad_ind[1]); #Se obtiene el indicador asociado a la misma person
+            indicador=float(edad_ind[1]);  #Se obtiene el indicador asociado a la misma person
             
             
             
@@ -132,7 +132,7 @@ while (op != '4'):
 
         #Se ordenan las listas en orden ascendente con el fin de obtener el rango con mayor número de casos
         casos.sort()
-        temp=casos[8]       #Variable que contiene el rango con mayor número de contagios y el número de contagios
+        temp=casos[8]       #Variable que contendra el rango con mayor número de contagios y el número de contagios
 
         
         #Limpiar Pantalla
